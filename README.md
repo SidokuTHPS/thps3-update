@@ -1,5 +1,6 @@
-# THPS3-UPDATW
+# THPS3-UPDATE
 ![THPS3-Update](https://i.ibb.co/J24Jdb3/LOGOweb.png)
+
 **THPS3-UPDATE** is a modfication of the critically acclaimed Tony Hawk's Pro Skater 3 developed by <a href="https://en.wikipedia.org/wiki/Neversoft" target="_blank">Neversoft</a> and published by <a href="https://en.wikipedia.org/wiki/Activision" target="_blank">Activision</a> which released in October of 2001.
 
 
